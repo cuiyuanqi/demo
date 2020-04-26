@@ -8,6 +8,8 @@ public class DataController {
     public static void main(String[] args) {
         RedisTemplate<Object, Object> obje1ctObjectRedisTemplate = new RedisTemplate<>();
         String string = new String();
+        Integer integer = new Integer(0);
+
     }
     
     
